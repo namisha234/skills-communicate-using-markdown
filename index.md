@@ -4,3 +4,13 @@
 ###### this is h6 after that there is no h7 available to use
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+adding code block 
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+``` javascript
+var myName="namisha";
+var bD= 29;
+```

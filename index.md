@@ -14,3 +14,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var myName="namisha";
 var bD= 29;
 ```
+##### adding a task list which is nothing but checkpoints
+- [ ] Turn on Github Pages
+- [ ] Outline my Portfolio
+- [ ] Introduce myself to world 
